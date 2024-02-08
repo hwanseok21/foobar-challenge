@@ -1,7 +1,5 @@
 # foobar-challenge
-Suddenly, the Google search bar changed and asked if I wanted to join foobar. At first I thought I was hacked. Still, I pressed the participate button out of curiosity. After accepting the invitation, I was able to reach the following screen.
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/11fbba7f-330a-4965-ac83-755e30fda482/a69ecf92-c4ad-44e0-afe7-173058b95c27/Untitled.png)
+Suddenly, the Google search bar changed and asked if I wanted to join foobar. At first I thought I was hacked. Still, I pressed the participate button out of curiosity.
 
 In a panic, I typed foobar challenge into the Google search bar. Surprisingly, this challenge was actually a challenge conducted by Google, and the purpose of the Poobah Challenge was for Google recruitment. And there was also a story about someone who actually got an interview at Google through the following route. Of course, it may or may not be real, but the process is written in great detail, so it doesn't seem to be a lie. I suddenly became interested and looked for more information. However, recently, the prevailing view is that the Poobah Challenge is viewed as an event or egg-eating rather than a recruitment process.
 
