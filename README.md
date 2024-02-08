@@ -7,8 +7,8 @@ Still, maybe Google could hire me?? I had a thought. So I thought about it. Am I
 
   Google's hiring philosophy is, “Let's not hire people who are not talented, even if it means losing talented people.” When I first looked at myself, I realized that I was definitely not the right talent for Google.
 
-  And the basis for being sure of this is as follows. What I kept searching for at that time was about mamba. In my opinion, the talent Google wants right now is an LLM deep learning expert. So, I expect that I received an invitation like this. However, I am someone who has never dealt with the LLM model. I was just lucky enough to receive an invitation while working as an intern, and it became even more certain.
+  And the basis for being sure of this is as follows. What I kept searching for at that time was about mamba. In my opinion, the talent Google wants right now is an LLM deep learning expert. So, I expect that I received an invitation like this. However, I am someone who has never dealt with the LLM model. I was just lucky enough to receive an invitation while working as an ECo Lab intern, and it became even more certain.
 
-  So, I decided to just prepare for Kotena and solve the problems step by step.
+  So, I decided to just prepare for coding test and solve the problems step by step.
 
-  This repository is just a record book of challenge
+  This repository is just a record book of challenge.
