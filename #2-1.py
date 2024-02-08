@@ -1,4 +1,4 @@
-#solution of #2
+#solution of #2-1
 def convert2decimal(n, k, b):
   r = 0
   for i in range(k):
@@ -17,6 +17,7 @@ def convert2origin(decimal, k, b):
       r = '0' + r
   return r
 
+#Check for duplicates
 def check(z, tmp, result):
   r = 0
   if (z in tmp):
@@ -28,6 +29,7 @@ def check(z, tmp, result):
 
   return r
 
+#When input is decimal
 def loop_decimal(n, k, b, tmp, result):
   x = "".join(sorted(n, reverse=True))
   y = "".join(sorted(n))
@@ -40,7 +42,7 @@ def loop_decimal(n, k, b, tmp, result):
 
   return loop_decimal(z, k, b, tmp, result)
   
-
+#When input isn't decimal
 def loop_normal(n, k, b, tmp, result):
   x = "".join(sorted(n, reverse=True))
   y = "".join(sorted(n))
@@ -51,7 +53,7 @@ def loop_normal(n, k, b, tmp, result):
     
   return loop_normal(z, k, b, tmp, result)
   
-
+#main fuction
 def solution(n, b):
     #Your code here
     k = len(n)
