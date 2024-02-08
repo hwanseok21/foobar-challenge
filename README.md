@@ -1,14 +1,14 @@
 # foobar-challenge
-Suddenly, Google's search bar changed and asked me if I wanted to join foobar. At first I thought I had been hacked. Still, out of curiosity, I pressed the button to participate. After accepting the invitation, I was able to reach the following screen.
+Suddenly, the Google search bar changed and asked if I wanted to join foobar. At first I thought I was hacked. Still, I pressed the participate button out of curiosity. After accepting the invitation, I was able to reach the following screen.
 
-  Out of embarrassment, I typed foobar challenge into the Google search box. Surprisingly, this challenge was actually a challenge run by Google, and the purpose of the foobar challenge was for Google recruitment. And there was also a story about someone who actually got an interview at Google through the following route. Of course, it may or may not be real, but it doesn't seem like it was a lie, as the process was written down in great detail. Suddenly interested, I searched for more information. However, the recent view of the foobar challenge as an event or eater egg rather than a recruitment process has prevailed.
+In a panic, I typed foobar challenge into the Google search bar. Surprisingly, this challenge was actually a challenge conducted by Google, and the purpose of the Poobah Challenge was for Google recruitment. And there was also a story about someone who actually got an interview at Google through the following route. Of course, it may or may not be real, but the process is written in great detail, so it doesn't seem to be a lie. I suddenly became interested and looked for more information. However, recently, the prevailing view is that the Poobah Challenge is viewed as an event or egg-eating rather than a recruitment process.
 
-Still, maybe Google could hire me?? I had a thought. So I thought about it. Am I truly talented enough to go to Google?
+Still, wouldn’t Google be able to hire me?? I thought about it. So I thought about it. Am I really talented enough to go to Google?
 
-  Google's hiring philosophy is, “Let's not hire people who are not talented, even if it means losing talented people.” When I first looked at myself, I realized that I was definitely not the right talent for Google.
+Google's hiring philosophy is 'Don't hire people without talent, even if you lose talent.' I don't know if I'm a talented person or not. But what is certain is that Google is now looking for LLM experts. I can't remember the exact keyword that got me an invitation, but it was about mamba. However, I am someone who has never dealt with the LLM model before. While researching about the mamba that fights against transformers, I was lucky enough to be invited.
 
-  And the basis for being sure of this is as follows. What I kept searching for at that time was about mamba. In my opinion, the talent Google wants right now is an LLM deep learning expert. So, I expect that I received an invitation like this. However, I am someone who has never dealt with the LLM model. I was just lucky enough to receive an invitation while working as an ECo Lab intern, and it became even more certain.
+I plan to send my resume for fun in the distant future when I feel more prepared.
 
-  So, I decided to just prepare for coding test and solve the problems step by step.
+So, I decided to solve the problems step by step, with the goal of just preparing for the coding test.
 
-  This repository is just a record book of challenge.
+This repository is merely a record of challenges.
